@@ -1,4 +1,4 @@
-CodeIgniter_CKEditor_Integration
+CodeIgniter and CKEditor Integration
 ================================
 
 Download CKEditor from the official site or use the one included in this repository(Basic package - Version 4.4.3 • 15 Jul 2014)
